@@ -38,7 +38,7 @@ export default {
       <html>
       <head>
         <title>Kotone's Room</title>
-        <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/uLcdia/cloudflare_llm/favicon.png">
+        <link rel="icon" type="image/png" href="https://raw.githubusercontent.com/uLcdia/cloudflare_llm/main/favicon.png">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
           form {
